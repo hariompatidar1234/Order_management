@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.0.0"
+ruby "3.2.4"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.2"
@@ -70,3 +70,4 @@ end
 gem 'activeadmin', '~> 3.2.0'
 gem 'devise'
 gem 'sassc'
+gem 'sidekiq'
